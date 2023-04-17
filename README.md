@@ -7,7 +7,7 @@ Programming is more of a passion than a job for me so I work hard and make thing
 My goal in a project is always to try and balance a LEAN approch while keeping things tidy, performant and scalable.
 Freelancer at heart but always glad to build things as team since I enjoy the company of fellow humans.
 
-I speak french, english and spanish.
+I speak 🇫🇷 French, 🇬🇧 English and 🇪🇸 Spanish.
 
 You can contact me on my [LinkedIn](https://www.linkedin.com/in/victorblackwell/) or [Twitter](https://twitter.com/vblackwhale)
 
