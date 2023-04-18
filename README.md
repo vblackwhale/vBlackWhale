@@ -9,7 +9,7 @@ Freelancer at heart but always glad to build things as team since I enjoy the co
 
 I speak 🇫🇷 French, 🇬🇧 English and 🇪🇸 Spanish.
 
-You can contact me on my [LinkedIn](https://www.linkedin.com/in/victorblackwell/) or [Twitter](https://twitter.com/vblackwhale)
+You can contact me on my [Twitter](https://twitter.com/vblackwhale)
 
 ## My Stack
 
@@ -28,7 +28,6 @@ You can contact me on my [LinkedIn](https://www.linkedin.com/in/victorblackwell/
 
 ### Front
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React-Native](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
