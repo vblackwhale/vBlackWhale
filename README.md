@@ -8,6 +8,7 @@ My goal in a project is always to have a LEAN approach while keeping things tidy
 Freelancer at heart but always glad to build things as a team since I enjoy the company of fellow humans.
 
 I speak 🇫🇷 French, 🇬🇧 English and 🇪🇸 Spanish.
+
 You can contact me on my [Twitter](https://twitter.com/vblackwhale)
 
 ## My Stack
