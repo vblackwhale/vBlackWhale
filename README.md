@@ -1,14 +1,13 @@
 ### 👋 Hello there, I'm BlackWhale and this is my Github.
 
 I love coding web apps using React but I'm also glad to dive into the backend or an API with NodeJS.
-More recently I've worked in a great deal of blockchain based projects so smart-contracts or dapps would be my specialization.
+More recently I've worked in a great deal of blockchain projects, so smart-contracts or dapps would be my specialization.
 Programming is more of a passion than a job for me so I work hard and make things happen.
 
-My goal in a project is always to try and balance a LEAN approch while keeping things tidy, performant and scalable.
-Freelancer at heart but always glad to build things as team since I enjoy the company of fellow humans.
+My goal in a project is always to have a LEAN approach while keeping things tidy, performant and scalable.
+Freelancer at heart but always glad to build things as a team since I enjoy the company of fellow humans.
 
 I speak 🇫🇷 French, 🇬🇧 English and 🇪🇸 Spanish.
-
 You can contact me on my [Twitter](https://twitter.com/vblackwhale)
 
 ## My Stack
