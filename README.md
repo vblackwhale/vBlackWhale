@@ -40,6 +40,7 @@ You can contact me on my [Twitter](https://twitter.com/vblackwhale)
 ![IPFS](https://img.shields.io/static/v1?style=for-the-badge&message=IPFS&color=222222&logo=IPFS&logoColor=65C2CB&label=)
 
 ### Blockchain
+![Hardhat](https://storage.fleek.zone/fc40871f-de6c-43f6-b10e-4dd213f8791a-bucket/SelfHostImages/hardhat.svg)
 ![Ethereum](https://img.shields.io/static/v1?style=for-the-badge&message=Ethereum&color=3C3C3D&logo=Ethereum&logoColor=FFFFFF&label=)
 ![Alchemy](https://img.shields.io/static/v1?style=for-the-badge&message=Alchemy&color=0C0C0E&logo=Alchemy&logoColor=FFFFFF&label=)
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
