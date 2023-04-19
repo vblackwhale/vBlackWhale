@@ -34,19 +34,30 @@ You can contact me on my [Twitter](https://twitter.com/vblackwhale)
 ![Puppeteer](https://img.shields.io/static/v1?style=for-the-badge&message=Puppeteer&color=40B5A4&logo=Puppeteer&logoColor=FFFFFF&label=)
 
 ### DataBase
+![Firestore](https://storage.fleek.zone/fc40871f-de6c-43f6-b10e-4dd213f8791a-bucket/SelfHostImages/firestore.svg)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![IPFS](https://img.shields.io/static/v1?style=for-the-badge&message=IPFS&color=222222&logo=IPFS&logoColor=65C2CB&label=)
 
-### Blockchain
+### Blockchain Code Modules
 ![Hardhat](https://storage.fleek.zone/fc40871f-de6c-43f6-b10e-4dd213f8791a-bucket/SelfHostImages/hardhat.svg)
-![Ethereum](https://img.shields.io/static/v1?style=for-the-badge&message=Ethereum&color=3C3C3D&logo=Ethereum&logoColor=FFFFFF&label=)
-![Alchemy](https://img.shields.io/static/v1?style=for-the-badge&message=Alchemy&color=0C0C0E&logo=Alchemy&logoColor=FFFFFF&label=)
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Ethers.js](https://storage.fleek.zone/fc40871f-de6c-43f6-b10e-4dd213f8791a-bucket/SelfHostImages/ethersjs.svg)
+
+### Blockchain Ecosystem
+![Ethereum](https://img.shields.io/static/v1?style=for-the-badge&message=Ethereum&color=3C3C3D&logo=Ethereum&logoColor=FFFFFF&label=)
+![Monero](https://storage.fleek.zone/fc40871f-de6c-43f6-b10e-4dd213f8791a-bucket/SelfHostImages/monero.svg)
+![Alchemy](https://img.shields.io/static/v1?style=for-the-badge&message=Alchemy&color=0C0C0E&logo=Alchemy&logoColor=FFFFFF&label=)
+![Flashbots](https://storage.fleek.zone/fc40871f-de6c-43f6-b10e-4dd213f8791a-bucket/SelfHostImages/flashbots.svg)
 ![Chainlink](https://img.shields.io/static/v1?style=for-the-badge&message=Chainlink&color=375BD2&logo=Chainlink&logoColor=FFFFFF&label=)
 ![OpenSea](https://img.shields.io/static/v1?style=for-the-badge&message=OpenSea&color=2081E2&logo=OpenSea&logoColor=FFFFFF&label=)
 ![OpenZeppelin](https://img.shields.io/static/v1?style=for-the-badge&message=OpenZeppelin&color=4E5EE4&logo=OpenZeppelin&logoColor=FFFFFF&label=)
+![AAVE](https://storage.fleek.zone/fc40871f-de6c-43f6-b10e-4dd213f8791a-bucket/SelfHostImages/aave.svg)
+![ENS](https://storage.fleek.zone/fc40871f-de6c-43f6-b10e-4dd213f8791a-bucket/SelfHostImages/ens.svg)
+![TheGraph](https://storage.fleek.zone/fc40871f-de6c-43f6-b10e-4dd213f8791a-bucket/SelfHostImages/thegraph.svg)
+![Uniswap](https://storage.fleek.zone/fc40871f-de6c-43f6-b10e-4dd213f8791a-bucket/SelfHostImages/uniswap.svg)
+![Kleros](https://storage.fleek.zone/fc40871f-de6c-43f6-b10e-4dd213f8791a-bucket/SelfHostImages/kleros.svg)
 
 ### API
 ![CoinMarketCap](https://img.shields.io/static/v1?style=for-the-badge&message=CoinMarketCap&color=17181B&logo=CoinMarketCap&logoColor=FFFFFF&label=)
