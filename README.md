@@ -33,22 +33,20 @@ You can contact me on my [Twitter](https://twitter.com/vblackwhale)
 ![Swagger](https://img.shields.io/static/v1?style=for-the-badge&message=Swagger&color=222222&logo=Swagger&logoColor=85EA2D&label=)
 ![Puppeteer](https://img.shields.io/static/v1?style=for-the-badge&message=Puppeteer&color=40B5A4&logo=Puppeteer&logoColor=FFFFFF&label=)
 
-### DataBase
+### DB
 ![Firestore](https://storage.fleek.zone/fc40871f-de6c-43f6-b10e-4dd213f8791a-bucket/SelfHostImages/firestore.svg)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![IPFS](https://img.shields.io/static/v1?style=for-the-badge&message=IPFS&color=222222&logo=IPFS&logoColor=65C2CB&label=)
 
-### Blockchain Code Modules
+### Blockchain
 ![Hardhat](https://storage.fleek.zone/fc40871f-de6c-43f6-b10e-4dd213f8791a-bucket/SelfHostImages/hardhat.svg)
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Ethers.js](https://storage.fleek.zone/fc40871f-de6c-43f6-b10e-4dd213f8791a-bucket/SelfHostImages/ethersjs.svg)
 
-### Blockchain Ecosystem
+### On-chain
 ![Ethereum](https://img.shields.io/static/v1?style=for-the-badge&message=Ethereum&color=3C3C3D&logo=Ethereum&logoColor=FFFFFF&label=)
-![Monero](https://storage.fleek.zone/fc40871f-de6c-43f6-b10e-4dd213f8791a-bucket/SelfHostImages/monero.svg)
-![Alchemy](https://img.shields.io/static/v1?style=for-the-badge&message=Alchemy&color=0C0C0E&logo=Alchemy&logoColor=FFFFFF&label=)
 ![Flashbots](https://storage.fleek.zone/fc40871f-de6c-43f6-b10e-4dd213f8791a-bucket/SelfHostImages/flashbots.svg)
 ![Chainlink](https://img.shields.io/static/v1?style=for-the-badge&message=Chainlink&color=375BD2&logo=Chainlink&logoColor=FFFFFF&label=)
 ![OpenSea](https://img.shields.io/static/v1?style=for-the-badge&message=OpenSea&color=2081E2&logo=OpenSea&logoColor=FFFFFF&label=)
@@ -59,26 +57,14 @@ You can contact me on my [Twitter](https://twitter.com/vblackwhale)
 ![Uniswap](https://storage.fleek.zone/fc40871f-de6c-43f6-b10e-4dd213f8791a-bucket/SelfHostImages/uniswap.svg)
 ![Kleros](https://storage.fleek.zone/fc40871f-de6c-43f6-b10e-4dd213f8791a-bucket/SelfHostImages/kleros.svg)
 
-### API
-![CoinMarketCap](https://img.shields.io/static/v1?style=for-the-badge&message=CoinMarketCap&color=17181B&logo=CoinMarketCap&logoColor=FFFFFF&label=)
-![Binance](https://img.shields.io/static/v1?style=for-the-badge&message=Binance&color=222222&logo=Binance&logoColor=F0B90B&label=)
-![Google](https://img.shields.io/static/v1?style=for-the-badge&message=Google&color=4285F4&logo=Google&logoColor=FFFFFF&label=)
-![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)
-![Stripe](https://img.shields.io/static/v1?style=for-the-badge&message=Stripe&color=008CDD&logo=Stripe&logoColor=FFFFFF&label=)
-
 ### Testing
-![Jest](https://img.shields.io/static/v1?style=for-the-badge&message=Jest&color=C21325&logo=Jest&logoColor=FFFFFF&label=)
 ![Chai](https://img.shields.io/static/v1?style=for-the-badge&message=Chai&color=A30701&logo=Chai&logoColor=FFFFFF&label=)
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
 ### DevOps
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=)
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
-![DigitalOcean](https://img.shields.io/static/v1?style=for-the-badge&message=DigitalOcean&color=0080FF&logo=DigitalOcean&logoColor=FFFFFF&label=)
-![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)
-![Netlify](https://img.shields.io/static/v1?style=for-the-badge&message=Netlify&color=222222&logo=Netlify&logoColor=00C7B7&label=)
 ![NGINX](https://img.shields.io/static/v1?style=for-the-badge&message=NGINX&color=009639&logo=NGINX&logoColor=FFFFFF&label=)
 ![PM2](https://img.shields.io/static/v1?style=for-the-badge&message=PM2&color=2B037A&logo=PM2&logoColor=FFFFFF&label=)
 
