@@ -6,8 +6,8 @@
 
   [![Twitter](https://img.shields.io/badge/Twitter-@vblackwhale-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/vblackwhale)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-victorblackwhale-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorblackwhale/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-trebuchet.systems-black?style=flat&logo=data:image/svg+xml;base64,)](https://trebuchet.systems)
-  [![Book a call](https://img.shields.io/badge/Status-Available%20for%20freelance-brightgreen?style=flat)](https://calendly.com/victor-blackwhale/30min)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-trebuchet.systems-black?style=flat)](https://trebuchet.systems)
+  [![Book a call](https://img.shields.io/badge/Book%20a%20call-30%20min-brightgreen?style=flat&logo=googlecalendar&logoColor=white)](https://calendly.com/victor-blackwhale/30min)
 </div>
 
  
