@@ -11,7 +11,7 @@
 </div>
 
  
-| **8+** years experience    | **$3.6M+** public liquidity shipped | **20+** projects delivered | Solo lead to full team integration  |
+| **8+** years experience    | **$3.9M+** public liquidity shipped | **20+** projects delivered | Solo lead to full team integration  |
  
 
 ## About
