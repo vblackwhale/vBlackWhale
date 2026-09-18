@@ -35,7 +35,7 @@ AI-assisted engineering under systematic human review: no keys, addresses or sen
 | [Ledgity Yield](https://ledgity.finance) | Tokenized investment products backed by real-world assets · $3.3M TVL · Ethereum, Base, Arbitrum, Sonic, Hedera, Linea | Solo lead: protocol v2 (ERC-4626 + Chainlink CCIP), full app surface, security & QA |
 | [Destral](https://destral.xyz) | Investment platform with passkey smart wallets · $12.5M TVL | Lead smart contracts: WebAuthn/RSA wallets, managed vaults with epoch NAV, token/staking/vesting |
 | [BuffX](https://buffx.io) | Tokenized RWA vault platform · ERC-7540 async vaults | Solo lead: async vault protocol, beacon-proxy upgrades, zapper flows |
-| [Athena](https://github.com/vblackwhale/athena-contracts) | Decentralized insurance marketplace · Ethereum mainnet · externally audited (2024, response & fixes in repo) | Solo over 3 years: cover market-making with Uniswap-v3-style ticks, Kleros claim arbitration |
+| [Athena](https://github.com/Athena-ins/athena-contracts) | Decentralized insurance marketplace · Ethereum mainnet · externally audited (2024, response & fixes in repo) | Solo over 3 years: cover market-making with Uniswap-v3-style ticks, Kleros claim arbitration |
 | [NFT Recovery Tool](https://github.com/vblackwhale/nft-recovery-tool) | Open-source CLI to batch-rescue NFTs from compromised wallets | Author |
 
 More on [trebuchet.systems](https://trebuchet.systems) · references and live product links on request.
