@@ -17,7 +17,7 @@
 
 ## About
 
-Security is not a phase of my process, it is the process: fuzz and invariant testing before features, static analysis and gas profiling as routine, audit-ready documentation written while I build. Most of my work happens where product ambiguity meets technical complexity: tokenized assets, DeFi/RWA platforms, smart wallets and trading infrastructure.
+Security work starts on day one of every build: fuzz and invariant testing before features, static analysis and gas profiling as routine, audit-ready documentation written along the way. Most of my work is on tokenized assets, DeFi/RWA platforms, smart wallets and trading infrastructure.
 
 - **Tokenization** · issuance-to-settlement design: reserve-attested minting, transfer restrictions and eligibility gating, corporate actions, epoch/NAV settlement. ERC-20/4626/7540, working knowledge of ERC-3643 and the ERC-1400 family.
 - **Security & testing** · Foundry property-based/invariant/fuzz suites, Slither, Tenderly, external audit preparation and traceable findings remediation (on both sides of the audit).
